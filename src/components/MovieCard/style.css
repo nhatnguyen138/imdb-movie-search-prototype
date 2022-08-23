@@ -1,0 +1,17 @@
+.movie-card {
+  max-width: 280px;
+  background-color: #1a1a1b;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10px 10px 10px;
+}
+
+.movie-card img {
+  height: 300px;
+}
+
+.movie-card p {
+  text-align: center;
+}
